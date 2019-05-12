@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StoreieslocationApplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gpsdescripiton">Gps not active , Do you want to activite it </string>
+    <string name="gpsenable"> Enable Gps .</string>
+    <string name="cancel">cancell</string>
+</resources>
